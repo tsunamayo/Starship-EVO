@@ -4,8 +4,9 @@ Welcome to [Skywanderers](https://www.skywanderersgame.com/) bug tracking reposi
 
 # How to report issues
 
-Please provide as much relevant information as possible.
-
+- Please provide as much relevant information as possible.
+- Please submit one issue at a time so that we can indivually work on them.
+- When creating a new issue you will have a template to fill in. You are **not** required to do so but it will help.
 - [Create a new issue](https://github.com/tsunamayo/Skywanderers/issues/new)
 
 # About
