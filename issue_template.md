@@ -1,15 +1,15 @@
+
+### Short Description of the issue:
+
+...
+
+### Steps to reproduce the issue:
+
+...
+
 ### Environment
 - Skywanderers version: 
 - Graphics Card: 
-
-
-### Expected behavior:
-
-...
-
-### Actual behavior:
-
-...
 
 ### Additional information:
 
