@@ -13,7 +13,7 @@ Welcome to [Starship EVO](https://www.skywanderersgame.com/) bug tracking reposi
 
 Build **spaceships** and wander among the **stars**!
 
-**Skywanderers** is a voxel **construction** game set in a procedural **galaxy** made of billions of stars.
+**Starship EVO** is a voxel **construction** game set in a procedural **galaxy** made of billions of stars.
 
 Play with your **friends**, use **blocks**, **bricks** and **paints** to create the **spaceship** of your dreams and discover a galaxy full of wonders.
 
