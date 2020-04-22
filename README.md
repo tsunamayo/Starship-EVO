@@ -1,6 +1,6 @@
-# Skywanderers
+# Starship EVO
 
-Welcome to [Skywanderers](https://www.skywanderersgame.com/) bug tracking repository!
+Welcome to [Starship EVO](https://www.skywanderersgame.com/) bug tracking repository!
 
 # How to report issues
 
@@ -22,7 +22,6 @@ The game offers to merge the **excitement of exploring** uncharted worlds as in 
 # Links
 
 - [Main Website](https://www.skywanderersgame.com/)
-- [Forum](https://www.skywanderersgame.com/forum/index.php)
 - [Wiki](https://skywanderers.gamepedia.com/Skywanderers_Wiki)
 
 [![Kickstarter](https://www.skywanderersgame.com/img/logo-kickstarter.png)](https://www.kickstarter.com/projects/skywanderers/skywanderers)
