@@ -15,4 +15,4 @@
 
 _(Screenshots, Videos, Error logs, Related issues)_
 
-Please also include the `output_log.txt` file. You can find your log here: `%UserProfile%\AppData\LocalLow\TsunamayoCorp\Skywanderers\`
+Please also include the `output_log.txt` file. You can find your log here: `%UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\`
