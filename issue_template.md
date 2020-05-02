@@ -8,7 +8,7 @@
 ...
 
 ### Environment
-- Skywanderers version: 
+- Starship EVO version: 
 - Graphics Card: 
 
 ### Additional information:
