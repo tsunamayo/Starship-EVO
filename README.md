@@ -2,6 +2,9 @@
 
 Welcome to [Starship EVO](https://www.skywanderersgame.com/) bug tracking repository!
 
+# Submit a Blueprint
+- Go over to our submission page: https://github.com/tsunamayo/Starship-EVO-Backers-Ships
+
 # How to report issues
 
 - Please provide as much relevant information as possible.
