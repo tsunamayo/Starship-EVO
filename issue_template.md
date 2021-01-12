@@ -15,7 +15,7 @@
 
 _(Screenshots, Videos, Error logs, Related issues)_
 
-Please also include the `output_log.txt` file. You can find your log here: `%UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\`
+Please also include the `output_log.txt` or `Player.log` file starting from 21w02a. You can find the log file here: `%UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\`
 
 If you issue concerns a particular design please include any blueprint that could help to reproduce the issue.
 Blueprint folder is over at:
