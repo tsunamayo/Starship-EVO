@@ -24,16 +24,14 @@ The game offers to merge the **excitement of exploring** uncharted worlds as in 
 
 # Links
 
-[Wiki](https://skywanderers.gamepedia.com/Skywanderers_Wiki)
-
-[Kickstarter](https://www.kickstarter.com/projects/skywanderers/skywanderers)
+[Wiki](https://starshipevo.fandom.com/wiki/Starship_EVO_Wiki)
 
 [Twitter](https://twitter.com/TransNeonOrange)
 
-[Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=875717459)
+[Steam](https://store.steampowered.com/app/711980/Starship_EVO/)
 
 [Youtube](https://www.youtube.com/channel/UCITNnomMkqQv1aNi_8dxVBQ)
 
-[Reddit](https://www.reddit.com/r/skywanderers/)
+[Reddit](https://www.reddit.com/r/StarshipEVO/)
 
-[Discord](https://discord.gg/ufGxXzB)
+[Discord](https://discord.gg/starshipevo)
