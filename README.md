@@ -24,9 +24,7 @@ The game offers to merge the **excitement of exploring** uncharted worlds as in 
 
 # Links
 
-- [Main Website](https://www.skywanderersgame.com/)
-- [Wiki](https://skywanderers.gamepedia.com/Skywanderers_Wiki)
-
+[Wiki](https://skywanderers.gamepedia.com/Skywanderers_Wiki)
 [![Kickstarter](https://www.skywanderersgame.com/img/logo-kickstarter.png)](https://www.kickstarter.com/projects/skywanderers/skywanderers)
 [![Twitter](https://www.skywanderersgame.com/img/logo-twt.png)](https://twitter.com/TransNeonOrange)
 [![Steam](https://www.skywanderersgame.com/img/logo-stm.png)](http://steamcommunity.com/sharedfiles/filedetails/?id=875717459)
