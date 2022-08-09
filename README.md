@@ -25,9 +25,15 @@ The game offers to merge the **excitement of exploring** uncharted worlds as in 
 # Links
 
 [Wiki](https://skywanderers.gamepedia.com/Skywanderers_Wiki)
+
 [Kickstarter](https://www.kickstarter.com/projects/skywanderers/skywanderers)
+
 [Twitter](https://twitter.com/TransNeonOrange)
+
 [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=875717459)
+
 [Youtube](https://www.youtube.com/channel/UCITNnomMkqQv1aNi_8dxVBQ)
+
 [Reddit](https://www.reddit.com/r/skywanderers/)
+
 [Discord](https://discord.gg/ufGxXzB)
