@@ -15,7 +15,7 @@ Welcome to [Starship EVO](https://www.skywanderersgame.com/) bug tracking reposi
 # Blueprint guide for NPCs
 Should you want to help and see your creations integrated to the game, please refer to the guides below:
 
-[Civilian Ships](https://github.com/tsunamayo/Starship-EVO/issues/6510)
+[Civilian Ships](https://github.com/tsunamayo/Starship-EVO/issues/6515)
 
 [Pirate Ships](https://github.com/tsunamayo/Starship-EVO/issues/6510)
 
