@@ -12,6 +12,13 @@ Welcome to [Starship EVO](https://www.skywanderersgame.com/) bug tracking reposi
 - When creating a new issue you will have a template to fill in. You are **not** required to do so but it will help.
 - [Create a new issue](https://github.com/tsunamayo/Skywanderers/issues/new)
 
+# Blueprint guide for NPCs
+Should you want to help and see your creations integrated to the game, please refer to the guides below:
+Civilian Ships: #6515
+Pirate Ships: #6510
+Factions Ships: #6508
+
+
 # About
 
 Build **spaceships** and wander among the **stars**!
