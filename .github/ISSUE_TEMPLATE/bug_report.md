@@ -7,17 +7,7 @@ assignees: ''
 
 ---
 
-Short Description of the issue:
-...
-
-Steps to reproduce the issue:
-...
-
-Environment
-Starship EVO version:
-Graphics Card:
-Additional information:
-(Screenshots, Videos, Error logs, Related issues)
+IMPORTANT:
 
 Please also include the 'Player.log' and 'Player-prev.log' file. You can find the log file here: %UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\
 
