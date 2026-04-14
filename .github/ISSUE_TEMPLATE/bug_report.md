@@ -13,6 +13,8 @@ Please also include the 'Player.log' and 'Player-prev.log' file. You can find th
 
 In order to reproduce the issue please also send your character save here (zip the folder!): %UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\Save_Data\Characters\
 
+You will need to zip the folder to upload it. To do so Right click and choose [Send to -> compressed zip file] then drag the .zip onto your report to upload it..
+
 If you issue concerns a particular design please include any blueprint that could help to reproduce the issue. Blueprint folder is over at: %UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\Save_Data\Blueprints\
 
-You will need to zip the folder to upload it. To do so Right click and choose [Send to -> compressed zip file] then drag the .zip onto your report to upload it..
+
