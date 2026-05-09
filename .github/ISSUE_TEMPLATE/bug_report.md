@@ -9,6 +9,8 @@ assignees: ''
 
 IMPORTANT:
 
+Please tell use if you are on the Experimental or Default branch of the game.
+
 Please also include the 'Player.log' and 'Player-prev.log' file. You can find the log file here: %UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\
 
 In order to reproduce the issue please also send your character save here (zip the folder!): %UserProfile%\AppData\LocalLow\Moonfire Entertainment\Starship EVO\Save_Data\Characters\
